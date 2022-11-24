@@ -3,25 +3,25 @@ body{
      margin     : 0;
      font-family: Helvetica;
 }
-
+/*############ HEADER #############*/ 
 #header{
       position: fixed;
       top     : 0;
       left    : 0;
       z-index : 500;
       width   :100%;
-      height  :80px;
-      background-image  : url('images/wood-bg.png');
+      height  :100px;
+      background-image  : url("images/images.logo01jpeg-1.jpg");
       background-repeat: repeat-x;
 }
 
 #header img{
       display: block;
       margin : auto;
-      height : 70%;
-      padding-top: 15px; 
+      height : 100%;
+      padding-top: 20px; 
 }
-
+/*############ TOP-TABS #############*/
 #tabs-top{
       position: fixed;
       top     : 80px;
